@@ -13,6 +13,7 @@ import TestimonialsSection from '@/components/TestimonialsSection';
 import CTABanner from '@/components/CTABanner';
 import BookingSection from '@/components/BookingSection';
 import GallerySection from '@/components/GallerySection';
+import PropertiesSection from '@/components/PropertiesSection';
 import Footer from '@/components/Footer';
 import FloatingWhatsApp from '@/components/FloatingWhatsApp';
 
@@ -32,6 +33,7 @@ export default function Page() {
       <CTABanner />
       <BookingSection />
       <GallerySection />
+      <PropertiesSection />
       <Footer />
       <FloatingWhatsApp />
     </main>
